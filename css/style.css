@@ -1,0 +1,676 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0px;
+}
+
+.container-fluid {
+  padding: 0px;
+}
+
+header {
+  height: 967px;
+  background-image: url(/image/back-header.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+header div.menu {
+  height: 134px;
+  background: rgba(0, 0, 0, 0.4);
+}
+
+header div.menu a img {
+  display: block;
+  padding-top: 50px;
+  padding-left: 100px;
+}
+
+header nav ul {
+  list-style-type: none;
+  padding-right: 50px;
+}
+
+header nav ul li {
+  display: inline-block;
+  margin-right: 50px;
+}
+
+header nav ul li a {
+  color: #fff;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+header nav ul li a:hover {
+  color: #39b9ef;
+  text-decoration: underline;
+}
+
+header div.call-to h1 {
+  margin-top: 250px;
+  margin-bottom: 0px;
+  text-align: center;
+  color: #fff;
+  font-size: 72px;
+  font-weight: bold;
+}
+
+header div.call-to h1 span {
+  color: #2ebaee;
+}
+
+header div.call-to p {
+  color: #fff;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+header div.call-to a {
+  display: block;
+  width: 215px;
+  height: 50px;
+  background: #2ebaee;
+  color: #fff;
+  border-radius: 24px;
+  text-align: center;
+  margin: 0 auto;
+  line-height: 50px;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/*************************
+*******Our services*******
+*************************/
+
+.back-services {
+  background-image: url(/image/back-services.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding-bottom: 140px;
+}
+
+section.our-services h2 {
+  color: #242424;
+  font-size: 48px;
+  text-align: center;
+  margin-top: 80px;
+  border-bottom: 1px solid #e7e7e7;
+  padding-bottom: 80px;
+}
+
+section.our-services div.services div {
+  padding-top: 80px;
+}
+
+div.services div img {
+  display: block;
+  margin-bottom: 50px;
+}
+
+div.services div h3 {
+  color: #242424;
+  font-size: 24px;
+  margin-bottom: 34px;
+}
+
+div.services div p div.services-2 p {
+  color: #878787;
+  font-size: 16px;
+  line-height: 24px;
+  max-width: 520px;
+}
+
+section.our-services a.buttom {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  background: #2ebaee;
+  height: 45px;
+  width: 150px;
+  border-radius: 24px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 44px;
+  margin: 65px auto;
+  border: 1px solid #2ebaee;
+}
+
+section.our-services a.buttom:hover,
+.services-2 a:hover {
+  color: #2ebaee;
+  background: #fff;
+}
+
+.services-2 h3,
+.services-3 h3 {
+  color: #242424;
+  font-size: 35px;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.services-2 {
+  margin-top: 180px;
+}
+
+.services-2 a {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  background: #2ebaee;
+  height: 45px;
+  width: 150px;
+  border-radius: 24px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 44px;
+  margin-top: 50px;
+  border: 1px solid #2ebaee;
+}
+
+.services-3 {
+  margin-top: 240px;
+}
+
+.services-3 p {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  max-width: 520px;
+}
+
+.services-3 a {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  background: #fff;
+  height: 45px;
+  width: 150px;
+  border-radius: 24px;
+  color: #2ebaee;
+  font-size: 16px;
+  line-height: 44px;
+  margin-top: 50px;
+}
+
+.services-3 a:hover {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  background: #2ebaee;
+  height: 45px;
+  width: 150px;
+  border-radius: 24px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 44px;
+  margin-top: 50px;
+  border: 1px solid #fff;
+}
+
+.serv {
+  padding-left: 150px;
+}
+
+/**********************
+****section boy********
+**********************/
+
+.boy {
+  height: 638px;
+}
+
+section.boy h3 {
+  font-size: 72px;
+  color: #000;
+  max-width: 600px;
+  margin-left: 75px;
+}
+
+section.boy p {
+  color: #878787;
+  font-size: 16px;
+  max-width: 600px;
+  margin-left: 75px;
+}
+
+section.boy a {
+  margin-left: 75px;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  background: #2ebaee;
+  height: 45px;
+  width: 150px;
+  border-radius: 24px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 44px;
+  margin-top: 50px;
+}
+
+section.boy a:hover {
+  color: #2ebaee;
+  background: #fff;
+  border: 1px solid #2ebaee;
+}
+
+/**********************
+****section next boy***
+**********************/
+
+.next-boy {
+  min-height: 430px;
+}
+
+.block-1 {
+  background-image: url(/image/ico-7.png);
+  min-height: 430px;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.block-2 {
+  background-image: url(/image/ico-8.png);
+  min-height: 430px;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.block-3 {
+  background-image: url(/image/ico-9.png);
+  min-height: 430px;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.block-4 {
+  background-image: url(/image/ico-10.png);
+  min-height: 430px;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.next-boy h4 {
+  color: white;
+  font-size: 48px;
+  font-weight: bold;
+  height: 300px;
+  background: rgba(0, 0, 0, 0.7);
+  margin: 0;
+  padding: 140px 30px 0 65px;
+}
+
+.next-boy h4:hover {
+  color: white;
+  font-size: 48px;
+  font-weight: bold;
+  height: 300px;
+  background: rgba(57, 157, 195, 0.7);
+  margin: 0;
+  padding: 140px 30px 0 65px;
+}
+
+/**********************
+******check-our********
+**********************/
+
+section.check-our {
+  height: 850px;
+}
+
+section.check-our h2 {
+  color: white;
+  font-size: 72px;
+}
+
+section.check-our h2 span {
+  color: #000;
+}
+
+section.check-our img {
+  display: block;
+  margin: 0 auto;
+  width: 234px;
+  height: 234px;
+  margin-top: 32px;
+}
+
+section.check-our .name {
+  text-align: center;
+  color: #242424;
+  font-size: 34px;
+  margin-top: 30px;
+}
+
+section.check-our .awesome span {
+  display: block;
+  text-align: center;
+  font-size: 14px;
+  color: #878787;
+  margin-top: 15px;
+}
+
+section.check-our .awesome a {
+  margin-left: 75px;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  background: #2ebaee;
+  height: 45px;
+  width: 150px;
+  border-radius: 24px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 44px;
+  margin-top: 30px;
+}
+
+section.check-our .awesome a:hover {
+  color: #2ebaee;
+  background: #fff;
+  border: 1px solid #2ebaee;
+}
+
+/**********************
+*********footer********
+**********************/
+
+.footer {
+  background-image: url(/image/Fon.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 724px;
+}
+
+.footer .contact {
+  color: #fff;
+  font-size: 72px;
+  font-weight: bold;
+  margin-top: 110px;
+}
+
+.footer .adress {
+  color: #878787;
+  font-size: 18px;
+  font-weight: 30px;
+  margin-top: 30px;
+}
+
+.footer .phone {
+  margin-top: 30px;
+  color: #878787;
+  font-size: 20px;
+}
+
+.footer .phone a {
+  text-decoration: none;
+  color: #2ebaee;
+}
+
+.footer .phone a:hover {
+  text-decoration: underline;
+}
+
+.footer .email {
+  margin-top: 30px;
+  color: #878787;
+  font-size: 25px;
+}
+
+.footer .email a {
+  text-decoration: none;
+  color: #2ebaee;
+}
+
+.footer .email a:hover {
+  text-decoration: underline;
+}
+
+.footer ul {
+  list-style-type: none;
+  margin-top: 60px;
+  padding: 0;
+}
+
+.footer ul li {
+  display: inline-block;
+  margin-right: 30px;
+  border-radius: 35px;
+  height: 55px;
+  width: 55px;
+  opacity: 0.7;
+}
+
+.footer ul li:hover {
+  color: #2ebaee;
+  background: rgb(6, 226, 255);
+  opacity: 1;
+}
+
+.footer input[type="text"],
+.footer input[type="Email"] {
+  height: 60px;
+  width: 635px;
+  background: none;
+  border-radius: 6px;
+  border: 1px solid #535353;
+  color: #fff;
+  font-size: 17px;
+  display: block;
+  padding-left: 30px;
+  margin: 20px auto;
+}
+
+.footer input[type="text"] {
+  margin-top: 120px;
+}
+
+.footer textarea {
+  height: 200px;
+  width: 610px;
+  background: none;
+  border-radius: 6px;
+  border: 1px solid #535353;
+  color: #fff;
+  font-size: 17px;
+  display: block;
+  padding: 30px;
+  margin: 20px auto;
+  resize: none;
+}
+
+.footer button {
+  margin-left: 75px;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  background: #2ebaee;
+  height: 45px;
+  width: 150px;
+  border-radius: 24px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 44px;
+  margin-top: 30px;
+  border: none;
+}
+
+.footer button:hover {
+  color: #2ebaee;
+  background: #fff;
+}
+
+footer {
+  height: 136px;
+  background: #000;
+}
+
+footer p,
+footer ul {
+  list-style-type: none;
+  margin-top: 56px;
+  padding: 0;
+  color: #fff;
+}
+
+footer p {
+  text-align: center;
+}
+
+footer ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+footer ul a {
+  color: #fff;
+  font-size: 14px;
+  text-decoration: none;
+  text-align: center;
+  font-weight: bold;
+}
+
+footer ul a:hover {
+  text-decoration: underline;
+}
+
+img.adaptive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+/**********************
+*********Adaptive******
+**********************/
+
+/* @media (max-width: 575.98px) {
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  header nav ul li {
+    margin-right: 18px;
+  }
+  div.services div p {
+    padding-right: 10px;
+    text-align: center;
+  }
+  div.services div h3 {
+    padding-right: 10px;
+    text-align: center;
+  }
+  div.services div img {
+    display: block;
+    margin: 0 auto;
+  }
+  .services-2 h3,
+  .services-3 h3,
+  .services-3 {
+    margin: 0;
+  }
+  section.boy h3 {
+    margin: 0;
+    font-size: 36px;
+    text-align: center;
+  }
+  section.boy {
+    height: auto;
+  }
+  section.boy a,
+  .services-2 a {
+    margin-bottom: 10px;
+  }
+  .next-boy h4,
+  .next-boy h4:hover {
+    font-size: 24px;
+  }
+  section.check-our h2 {
+    text-align: center;
+    font-size: 48px;
+  }
+  section.check-our img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    margin-top: 32px;
+  }
+  section.check-our .name {
+    font-size: 24px;
+  }
+  section.check-our .awesome a {
+    display: block;
+    margin: 30px auto;
+  }
+  section.check-our {
+    height: auto;
+  }
+  .footer .contact {
+    font-size: 36px;
+  }
+  .footer .adress {
+    font-size: 14px;
+  }
+  .footer .phone {
+    font-size: 24px;
+  }
+  .footer .email {
+    font-size: 24px;
+  }
+  .footer ul li {
+    margin-right: 18px;
+  }
+  .footer input[type="text"],
+  .footer input[type="Email"] {
+    width: 400px;
+  }
+  .footer textarea {
+    width: 375px;
+  }
+  .footer input[type="text"],
+  .footer input[type="Email"] {
+    width: 400px;
+  }
+  .footer textarea {
+    width: 375px;
+  }
+  .footer {
+    height: 660px;
+  }
+  .footer button {
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1409.98px) {
+  div.call-to h1 {
+    width: 90%;
+    margin: 250px auto;
+  }
+  div.services div p {
+    padding: 10px;
+  }
+  .next-boy h4 {
+    font-size: 36px;
+  }
+  .next-boy h4:hover {
+    font-size: 36px;
+  }
+  section.check-our h2 {
+    text-align: center;
+  }
+  .footer input[type="text"],
+  .footer input[type="Email"] {
+    width: 400px;
+  }
+  .footer textarea {
+    width: 375px;
+  }
+} */
